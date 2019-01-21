@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>Willkommen</string>
+	</dict>
+	<key>HasRemovalPasscode</key>
+	<false/>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<true/>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>ipad_2017</string>
+			<key>PayloadDescription</key>
+			<string>Konfiguriert WLAN-Einstellungen</string>
+			<key>PayloadDisplayName</key>
+			<string>WLAN</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.9749E774-FFF1-4969-9C7E-409C5A37B955</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>9749E774-FFF1-4969-9C7E-409C5A37B955</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>ipad-HotSpot</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Bitsboard</string>
+	<key>PayloadDisplayName</key>
+	<string>IPad Koffer 01</string>
+	<key>PayloadIdentifier</key>
+	<string>koffer000</string>
+	<key>PayloadOrganization</key>
+	<string>Fröbelschule Offenbach</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>4DC2D4BE-2FA3-42C1-83ED-A268C796B248</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
